@@ -4,7 +4,7 @@
 
 # Highly Enthusiastic to explore new technologies.
 
-![Ali's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Ali2006-NED}&theme={radical})
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali2006-NED&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali2006-NED&layout=compact&theme=radical)
 
