@@ -5,7 +5,7 @@
 # Highly Enthusiastic to explore new technologies.
 
 ![Ali's GitHub stats](https://github-stats-extended.vercel.app/api?username=Ali2006-NED&show_icons=true&theme=radical)
-
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Ali2006-NED&layout=compact&theme=radical)
 
 # Connect With Me
 
