@@ -8,7 +8,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali2006-NED&layout=compact&theme=radical)
 
-![Your GitHub Stats](https://vercel.app)
 
 
 # Connect With Me
