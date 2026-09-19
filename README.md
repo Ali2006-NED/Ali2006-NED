@@ -1,6 +1,6 @@
 # Hi I am Ali Ahmed Khan.
 
-# Hi enjoy diving into the realms of Artificial Intelligence, Machine Learning and Cyber Security.
+# Hi enjoy diving into the realms of Artificial Intelligence, Machine Learning and Full Stack Development.
 
 # Highly Enthusiastic to explore new technologies.
 
